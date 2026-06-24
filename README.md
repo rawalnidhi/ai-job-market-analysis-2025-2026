@@ -93,6 +93,8 @@ Combines salary, demand, and AI salary premium into a single visualization to hi
 ## Author
 
 Nidhi Rawal
+
 MSDS 670 – Data Visualization
+
 Regis University
 
